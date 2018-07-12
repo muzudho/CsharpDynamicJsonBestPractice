@@ -1,11 +1,11 @@
 ﻿using Codeplex.Data;
-using CsDynamicJsonUsage.Model;
+using CsharpDynamicJsonBestPractice.Model;
 using System;
 using System.Diagnostics;
 using System.IO;
 using System.Threading;
 
-namespace CsDynamicJsonUsage
+namespace CsharpDynamicJsonBestPractice
 {
     /// <summary>
     /// 読むといいもの。

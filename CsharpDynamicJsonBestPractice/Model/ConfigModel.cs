@@ -1,4 +1,4 @@
-﻿namespace CsDynamicJsonUsage.Model
+﻿namespace CsharpDynamicJsonBestPractice.Model
 {
     public class ConfigModel
     {
