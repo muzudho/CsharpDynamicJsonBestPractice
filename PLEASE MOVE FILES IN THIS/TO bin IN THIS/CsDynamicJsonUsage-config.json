@@ -1,0 +1,26 @@
+{
+    "name": "taro",
+    "age": 12,
+    "weight": 45.9,
+    "livingList": [
+        "osaka",
+        "tokyo",
+        "saitama"
+    ],
+    "lackyNumberList": [
+        -3,
+        0.5,
+        101
+    ],
+    "dishMap": {
+        "morning": "banana",
+        "noon": "bread",
+        "evening": "juice",
+        "price": 3100
+    },
+    "toy": {
+        "name": "chiken-foot",
+        "playerMin": 2,
+        "playerMax": 8
+    }
+}
